@@ -9,11 +9,6 @@
 
 #include "me5413_world/math_utils.hpp"
 #include "me5413_world/path_tracker_node.hpp"
-#include <fstream>
-#include <ctime>
-#include <sstream> // For string stream operations
-
-std::ofstream logfile;
 
 namespace me5413_world
 {
